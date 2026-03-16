@@ -352,7 +352,7 @@ NeuraLake inference endpoint
 To request access:
 
 ```
-contact@neuralake.global
+Contact Celso
 ```
 
 or join the early developer program.
